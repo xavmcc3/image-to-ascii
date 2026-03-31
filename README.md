@@ -2,14 +2,11 @@
 
 # <image src="img/logo.png" width=37 style="vertical-align: middle;"> Image to ASCII
 
-This python program converts input images to color ASCII strings that can be printed
+This python program takes in an input image and applies effects to it via a CLI.
 
 ## Setup
 
-Clone the repo. The full command is `git clone https://github.com/xavmcc3/image-encoding.git`. Then `cd` into the folder and run it with the `python` command.
-
-## Dependencies
-Requires Python3, 
+Clone the repo to get started, then navigate into the folder and run it with the `python` command.
 
 ## Usage
 
