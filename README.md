@@ -38,7 +38,3 @@ In-progress .
  - [ ] fix dependencies
  - [ ] create `res` folder
 
----
-Copyright (c) [2026] [Your Name/Company]
-Licensed under the [MIT License](licence.txt).
-
