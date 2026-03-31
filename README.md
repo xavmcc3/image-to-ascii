@@ -39,4 +39,5 @@ In-progress .
  - [ ] create `res` folder
 
 Copyright (c) 2023 Xavier McClurkin
+
 Licensed under the [MIT License](LICENSE).
