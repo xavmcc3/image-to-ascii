@@ -40,5 +40,5 @@ In-progress .
 
 ---
 Copyright (c) [2026] [Your Name/Company]
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](lisence.txt).
 
